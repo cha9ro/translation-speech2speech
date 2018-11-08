@@ -7,7 +7,7 @@ from googletrans import Translator
 translator = Translator()
 
 string = input('input(enter \'q\' to exit): ')
-while sstring = input('input(enter \'q\' to exit): ') != 'q':
+while string != 'q':
     result = translator.detect(string)
     if result.lang == 'en':
         result = translator.translate(string, dest='ja')
