@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# virtualenv
+bin/
+include/
+lib/
+py-googletrans/
+.Python
+share/
