@@ -6,7 +6,7 @@ RECORD_SECONDS = 5 # record duarition [s]
 WAVE_OUTPUT_FILENAME = "./audio/sample.wav" # audio file name
 iDeviceIndex = 0 # record device index
  
-#基本情報の設定
+# setting
 FORMAT = pyaudio.paInt16 # audio format
 CHANNELS = 1             # monoral (1)
 RATE = 44100             # sample rate
