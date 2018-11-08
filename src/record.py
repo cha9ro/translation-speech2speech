@@ -3,7 +3,7 @@ import wave
 import speech_recognition as sr
  
 RECORD_SECONDS = 5 # record duarition [s]
-WAVE_OUTPUT_FILENAME = "./audio/sample.wav" # audio file name
+WAVE_OUTPUT_FILENAME = "./sample.wav" # audio file name
 iDeviceIndex = 0 # record device index
  
 # setting
