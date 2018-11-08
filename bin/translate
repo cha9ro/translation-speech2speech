@@ -1,0 +1,4 @@
+#!/Users/TakuroTakezawa/Developer/outreach/bin/python
+# EASY-INSTALL-SCRIPT: 'googletrans==2.3.0','translate'
+__requires__ = 'googletrans==2.3.0'
+__import__('pkg_resources').run_script('googletrans==2.3.0', 'translate')
