@@ -16,3 +16,4 @@ You might have to give authorication to execute this file by
 ```
 chmod 1 install.sh
 ```
+or something else.
